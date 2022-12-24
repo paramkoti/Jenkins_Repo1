@@ -1,1 +1,1 @@
-echo "This is my Cronjob Jenkins project."
+echo "This is my Poll SCM Jenkins project."
